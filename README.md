@@ -8,7 +8,8 @@ Basic syntax formats of Flask API applications
 	-  py -m venv AnyNameForVirtualEnviroment  - This command Creats a Flask Project inside that folder
 	- Type :   "env\Scripts\activate"  - To activate the project
 	- Type : pip install flask
-	- 
+	
+
 
 • How To run Flask App
 	- Go the folder where "app.py" exists through command prompt.
